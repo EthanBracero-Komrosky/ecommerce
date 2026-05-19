@@ -1,0 +1,6 @@
+# Ignore raw data and local/test files
+user_events.csv
+.vscode/
+__marimo__/
+test_notebook.py
+.DS_Store
